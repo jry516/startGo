@@ -39,6 +39,7 @@ func main() { // 主函数,程序的入口
 	var num1 float32
 	num1 = 3.14
 	fmt.Println(num1) //3.14
+
 	var num2 = -3.14
 	fmt.Println(num2) //-3.14
 	var num3 = 3.14e2
